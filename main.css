@@ -1,0 +1,9 @@
+body{
+    font-size: small;
+}
+
+a.center-logo{
+    margin:0 auto;
+    width:45%;
+    font-size: xx-large;
+}
